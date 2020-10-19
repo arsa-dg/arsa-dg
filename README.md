@@ -1,6 +1,6 @@
 ### Hello Internet 👋
 ### 😄 Hey, my name is Arsa Daris Gintara , I'm an Informatics Engineering student of ITB<br/>
-### 🌱 I’m currently interested in web developer <br/>
+### 🌱 I’m currently learning react.js and next.js <br/>
 ### 🔭 I’m currently working on https://arkavidia.id as a junior front-end web developer<br/>
 ### 📫 You can find me on www.linkedin.com/in/arsa-dg
 
