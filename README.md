@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello Internet 👋
+😄 Hey, my name is Arsa Daris Gintara, I'm an Informatics Engineering student of ITB
+🔭 I’m currently working on https://arkavidia.id as a junior front-end web developer
+🌱 I’m currently learning next.js and react.js 
+📫 You can find me on www.linkedin.com/in/arsa-dg
+
+Whoosh..
 
 <!--
 **arsa-dg/arsa-dg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
