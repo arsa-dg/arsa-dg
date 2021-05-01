@@ -4,6 +4,7 @@ My name is Arsa Daris Gintara, I'm an Informatics Engineering student at ITB.
 find me on https://www.linkedin.com/in/arsa-dg
 
 ## Skills
+HTML, CSS, Javascript, Bootstrap, Typescript, SQL, MySql, PostgreSql, Python, Haskell, C, C++, C#, Java, Prolog, PHP, React.js, Next.js, Django, Laravel
 
 ## Experience
 
