@@ -3,6 +3,7 @@
 My name is Arsa Daris Gintara, I'm an Informatics Engineering student at ITB. 
 find me on https://www.linkedin.com/in/arsa-dg
 
+<!--
 ## Skills
 HTML, CSS, Javascript, Bootstrap, Typescript, SQL, MySql, PostgreSql, Python, Haskell, C, C++, C#, Java, Prolog, PHP, React.js, Next.js, Django, Laravel
 
@@ -10,7 +11,6 @@ HTML, CSS, Javascript, Bootstrap, Typescript, SQL, MySql, PostgreSql, Python, Ha
 
 ![arsa dg's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsa-dg&show_icons=true&theme=radical)
 
-<!--
 **arsa-dg/arsa-dg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
